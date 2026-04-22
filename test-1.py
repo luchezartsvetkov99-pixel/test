@@ -28,15 +28,15 @@ class StaticSiteGenerator:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{title}</title>
+    <title>Test</title>
     <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
     <header>
-        <h1>{title}</h1>
+        <h1>Menu</h1>
     </header>
     <main>
-        {content}
+        Раздел 1
     </main>
     <footer>
         <p>&copy; 2024 Static Site. All rights reserved.</p>
